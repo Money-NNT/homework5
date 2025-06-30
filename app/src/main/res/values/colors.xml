@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Bảng màu mới cho giao diện demo -->
+    <color name="screen_background_lavender">#F3EFFF</color>
+    <color name="item_background_purple">#9C5EFF</color>
+    <color name="fab_background_lavender">#EADDFF</color>
+    <color name="save_button_purple">#6750A4</color>
+    <color name="edittext_line_color">#9C9C9C</color>
+</resources>
